@@ -1,0 +1,10 @@
+# This is the configuration used to check the rubocop source code.
+
+Style/Documentation:
+  Enabled: false
+
+Metrics/LineLength:
+  Max: 99
+
+Style/FrozenStringLiteralComment:
+  Enabled: false
