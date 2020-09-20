@@ -1,5 +1,7 @@
 require 'bundler/setup'
+require 'webmock/rspec'
 require 'fortnite_experience'
+require 'byebug'
 
 RSpec.configure do |config|
   # Enable flags like --only-failures and --next-failure

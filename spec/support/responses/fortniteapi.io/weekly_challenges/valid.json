@@ -1,0 +1,4687 @@
+{
+  "weeks": {
+      "1": {
+          "week": "1",
+          "name": "Week 1 Challenges",
+          "color": "00da08",
+          "image": null,
+          "rewards": {
+              "normal": []
+          },
+          "challenges": [
+              {
+                  "title": "Search Chests at Dirty Docks",
+                  "stars": 0,
+                  "xp": 25000,
+                  "progress_total": 7,
+                  "party_assist": false,
+                  "quest_id": "quest_s14_w1_q01",
+                  "sub_challenge": null,
+                  "reward": null,
+                  "prestige": false
+              },
+              {
+                  "title": "Eliminations at Holly Hedges",
+                  "stars": 0,
+                  "xp": 25000,
+                  "progress_total": 3,
+                  "party_assist": false,
+                  "quest_id": "quest_s14_w1_q02",
+                  "sub_challenge": null,
+                  "reward": null,
+                  "prestige": false
+              },
+              {
+                  "title": "Collect Floating Rings at Misty Meadows",
+                  "stars": 0,
+                  "xp": 25000,
+                  "progress_total": 1,
+                  "party_assist": false,
+                  "quest_id": "quest_s14_w1_q03",
+                  "sub_challenge": null,
+                  "reward": null,
+                  "prestige": false
+              },
+              {
+                  "title": "Eliminate Stark Robots at Quinjet Patrol landing sites",
+                  "stars": 0,
+                  "xp": 25000,
+                  "progress_total": 5,
+                  "party_assist": false,
+                  "quest_id": "quest_s14_w1_q04",
+                  "sub_challenge": null,
+                  "reward": null,
+                  "prestige": false
+              },
+              {
+                  "title": "Gas up a vehicle at Lazy Lake",
+                  "stars": 0,
+                  "xp": 25000,
+                  "progress_total": 1,
+                  "party_assist": false,
+                  "quest_id": "quest_s14_w1_q05",
+                  "sub_challenge": null,
+                  "reward": null,
+                  "prestige": false
+              },
+              {
+                  "title": "Deal damage to opponents with Stark Industries Energy Rifles",
+                  "stars": 0,
+                  "xp": 25000,
+                  "progress_total": 1000,
+                  "party_assist": false,
+                  "quest_id": "quest_s14_w1_q06",
+                  "sub_challenge": null,
+                  "reward": null,
+                  "prestige": false
+              },
+              {
+                  "title": "Eliminate Doctor Doom at Doom's Domain",
+                  "stars": 0,
+                  "xp": 50000,
+                  "progress_total": 3,
+                  "party_assist": true,
+                  "quest_id": "quest_s14_w1_q07",
+                  "sub_challenge": null,
+                  "reward": null,
+                  "prestige": false
+              },
+              {
+                  "title": "Deal damage to opponents at Craggy Cliffs",
+                  "stars": 0,
+                  "xp": 25000,
+                  "progress_total": 500,
+                  "party_assist": false,
+                  "quest_id": "quest_s14_w1_q08",
+                  "sub_challenge": null,
+                  "reward": null,
+                  "prestige": false
+              }
+          ]
+      },
+      "2": {
+          "week": "2",
+          "name": "Week 2 Challenges",
+          "color": "00da08",
+          "image": null,
+          "rewards": {
+              "normal": []
+          },
+          "challenges": [
+              {
+                  "title": "Search Chests at Salty Springs",
+                  "stars": 0,
+                  "xp": 25000,
+                  "progress_total": 7,
+                  "party_assist": false,
+                  "quest_id": "quest_s14_w2_q01",
+                  "sub_challenge": null,
+                  "reward": null,
+                  "prestige": false
+              },
+              {
+                  "title": "Eliminations at The Authority",
+                  "stars": 0,
+                  "xp": 25000,
+                  "progress_total": 3,
+                  "party_assist": false,
+                  "quest_id": "quest_s14_w2_q02",
+                  "sub_challenge": null,
+                  "reward": null,
+                  "prestige": false
+              },
+              {
+                  "title": "Dance on top of different Sentinel heads at the Sentinel Graveyard",
+                  "stars": 0,
+                  "xp": 25000,
+                  "progress_total": 3,
+                  "party_assist": false,
+                  "quest_id": "quest_s14_w2_q03",
+                  "sub_challenge": null,
+                  "reward": null,
+                  "prestige": false
+              },
+              {
+                  "title": "Destroy boats at Craggy Cliffs",
+                  "stars": 0,
+                  "xp": 25000,
+                  "progress_total": 7,
+                  "party_assist": false,
+                  "quest_id": "quest_s14_w2_q04",
+                  "sub_challenge": null,
+                  "reward": null,
+                  "prestige": false
+              },
+              {
+                  "title": "Bounce on different dog toys at the Ant Manor",
+                  "stars": 0,
+                  "xp": 25000,
+                  "progress_total": 4,
+                  "party_assist": false,
+                  "quest_id": "quest_s14_w2_q05",
+                  "sub_challenge": null,
+                  "reward": null,
+                  "prestige": false
+              },
+              {
+                  "title": "Ride a Motorboat under different colored steel bridges",
+                  "stars": 0,
+                  "xp": 25000,
+                  "progress_total": 3,
+                  "party_assist": false,
+                  "quest_id": "quest_s14_w2_q06",
+                  "sub_challenge": null,
+                  "reward": null,
+                  "prestige": false
+              },
+              {
+                  "title": "Search S.H.I.E.L.D. Chests inside Quinjets",
+                  "stars": 0,
+                  "xp": 50000,
+                  "progress_total": 7,
+                  "party_assist": true,
+                  "quest_id": "quest_s14_w2_q07",
+                  "sub_challenge": null,
+                  "reward": null,
+                  "prestige": false
+              },
+              {
+                  "title": "Deal damage to opponents at Catty Corner",
+                  "stars": 0,
+                  "xp": 25000,
+                  "progress_total": 500,
+                  "party_assist": false,
+                  "quest_id": "quest_s14_w2_q08",
+                  "sub_challenge": null,
+                  "reward": null,
+                  "prestige": false
+              }
+          ]
+      },
+      "3": {
+          "week": "3",
+          "name": "Week 3 Challenges",
+          "color": "00da08",
+          "image": null,
+          "rewards": {
+              "normal": []
+          },
+          "challenges": [
+              {
+                  "title": "Search Chests at Steamy Stacks",
+                  "stars": 0,
+                  "xp": 25000,
+                  "progress_total": 7,
+                  "party_assist": false,
+                  "quest_id": "quest_s14_w3_q01",
+                  "sub_challenge": null,
+                  "reward": null,
+                  "prestige": false
+              },
+              {
+                  "title": "Eliminations at Retail Row",
+                  "stars": 0,
+                  "xp": 25000,
+                  "progress_total": 3,
+                  "party_assist": false,
+                  "quest_id": "quest_s14_w3_q02",
+                  "sub_challenge": null,
+                  "reward": null,
+                  "prestige": false
+              },
+              {
+                  "title": "Collect Wood from Weeping Woods",
+                  "stars": 0,
+                  "xp": 25000,
+                  "progress_total": 500,
+                  "party_assist": false,
+                  "quest_id": "quest_s14_w3_q03",
+                  "sub_challenge": null,
+                  "reward": null,
+                  "prestige": false
+              },
+              {
+                  "title": "Visit Panther's Prowl",
+                  "stars": 0,
+                  "xp": 25000,
+                  "progress_total": 1,
+                  "party_assist": false,
+                  "quest_id": "quest_s14_w3_q04",
+                  "sub_challenge": null,
+                  "reward": null,
+                  "prestige": false
+              },
+              {
+                  "title": "Deal damage with exploding Gas Pumps or Gas Cans",
+                  "stars": 0,
+                  "xp": 25000,
+                  "progress_total": 250,
+                  "party_assist": false,
+                  "quest_id": "quest_s14_w3_q05",
+                  "sub_challenge": null,
+                  "reward": null,
+                  "prestige": false
+              },
+              {
+                  "title": "Place Fire Traps",
+                  "stars": 0,
+                  "xp": 25000,
+                  "progress_total": 3,
+                  "party_assist": false,
+                  "quest_id": "quest_s14_w3_q06",
+                  "sub_challenge": null,
+                  "reward": null,
+                  "prestige": false
+              },
+              {
+                  "title": "Eliminate Iron Man at Stark Industries",
+                  "stars": 0,
+                  "xp": 50000,
+                  "progress_total": 3,
+                  "party_assist": true,
+                  "quest_id": "quest_s14_w3_q07",
+                  "sub_challenge": null,
+                  "reward": null,
+                  "prestige": false
+              },
+              {
+                  "title": "Deal damage to opponents at Misty Meadows",
+                  "stars": 0,
+                  "xp": 25000,
+                  "progress_total": 500,
+                  "party_assist": false,
+                  "quest_id": "quest_s14_w3_q08",
+                  "sub_challenge": null,
+                  "reward": null,
+                  "prestige": false
+              }
+          ]
+      },
+      "4": {
+          "week": "4",
+          "name": "Week 4 Challenges",
+          "color": "00da08",
+          "image": null,
+          "rewards": {
+              "normal": []
+          },
+          "challenges": [
+              {
+                  "title": "Search Chests at Slurpy Swamp",
+                  "stars": 0,
+                  "xp": 25000,
+                  "progress_total": 7,
+                  "party_assist": false,
+                  "quest_id": "quest_s14_w4_q01",
+                  "sub_challenge": null,
+                  "reward": null,
+                  "prestige": false
+              },
+              {
+                  "title": "Eliminations at Weeping Woods",
+                  "stars": 0,
+                  "xp": 25000,
+                  "progress_total": 3,
+                  "party_assist": false,
+                  "quest_id": "quest_s14_w4_q02",
+                  "sub_challenge": null,
+                  "reward": null,
+                  "prestige": false
+              },
+              {
+                  "title": "Deal damage within 10 seconds of bouncing off an umbrella at Sweaty Sands",
+                  "stars": 0,
+                  "xp": 25000,
+                  "progress_total": 100,
+                  "party_assist": false,
+                  "quest_id": "quest_s14_w4_q03",
+                  "sub_challenge": null,
+                  "reward": null,
+                  "prestige": false
+              },
+              {
+                  "title": "Destroy Collector Cases at The Collection",
+                  "stars": 0,
+                  "xp": 25000,
+                  "progress_total": 3,
+                  "party_assist": false,
+                  "quest_id": "quest_s14_w4_q04",
+                  "sub_challenge": null,
+                  "reward": null,
+                  "prestige": false
+              },
+              {
+                  "title": "Hack Stark Robots at Stark Industries",
+                  "stars": 0,
+                  "xp": 25000,
+                  "progress_total": 5,
+                  "party_assist": false,
+                  "quest_id": "quest_s14_w4_q05",
+                  "sub_challenge": null,
+                  "reward": null,
+                  "prestige": false
+              },
+              {
+                  "title": "Destroy Gatherers",
+                  "stars": 0,
+                  "xp": 25000,
+                  "progress_total": 20,
+                  "party_assist": false,
+                  "quest_id": "quest_s14_w4_q06",
+                  "sub_challenge": null,
+                  "reward": null,
+                  "prestige": false
+              },
+              {
+                  "title": "Deal damage with a Gatherer's remains",
+                  "stars": 0,
+                  "xp": 50000,
+                  "progress_total": 10000,
+                  "party_assist": true,
+                  "quest_id": "quest_s14_w4_q07",
+                  "sub_challenge": null,
+                  "reward": null,
+                  "prestige": false
+              },
+              {
+                  "title": "Deal damage to opponents at Steamy Stacks",
+                  "stars": 0,
+                  "xp": 25000,
+                  "progress_total": 500,
+                  "party_assist": false,
+                  "quest_id": "quest_s14_w4_q08",
+                  "sub_challenge": null,
+                  "reward": null,
+                  "prestige": false
+              },
+              {
+                  "title": "Deal damage to opponents at The Authority",
+                  "stars": 0,
+                  "xp": 25000,
+                  "progress_total": 500,
+                  "party_assist": false,
+                  "quest_id": "quest_s14_w5_q08",
+                  "sub_challenge": null,
+                  "reward": null,
+                  "prestige": false
+              }
+          ]
+      }
+  },
+  "seasonWeeks": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+  ],
+  "limited_time": {
+      "current": null,
+      "finished": []
+  },
+  "other": [
+      {
+          "name": "Style Challenge",
+          "tags": [],
+          "color": "00da08",
+          "challenges": [
+              {
+                  "title": "Reach level 53",
+                  "stars": 0,
+                  "xp": 0,
+                  "progress_total": 53,
+                  "party_assist": false,
+                  "quest_id": "quest_style_Squash_q01",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Complete Challenges from Week 3 or 4",
+                  "stars": 0,
+                  "xp": 0,
+                  "progress_total": 10,
+                  "party_assist": false,
+                  "quest_id": "quest_style_Squash_q02",
+                  "sub_challenge": null,
+                  "reward": null
+              }
+          ]
+      },
+      {
+          "name": "Foil Challenge",
+          "tags": [
+              "ChallengeCategory.Event"
+          ],
+          "color": "00da08",
+          "challenges": [
+              {
+                  "title": "Reach level 150",
+                  "stars": 0,
+                  "xp": 0,
+                  "progress_total": 150,
+                  "party_assist": false,
+                  "quest_id": "quest_superlevel_G_HoneyDew",
+                  "sub_challenge": null,
+                  "reward": null
+              }
+          ]
+      },
+      {
+          "name": "CRACK!",
+          "tags": [
+              "ChallengeBundle.Metadata.PunchCard.Combat.Gear"
+          ],
+          "color": "ffcb7f",
+          "challenges": [
+              {
+                  "title": "Shotgun eliminations",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 3,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Elim_Shotgun_01",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Shotgun eliminations",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 10,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Elim_Shotgun_02",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Shotgun eliminations",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 25,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Elim_Shotgun_03",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Shotgun eliminations",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 100,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Elim_Shotgun_04",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Shotgun eliminations",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 250,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Elim_Shotgun_05",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Shotgun eliminations",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 750,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Elim_Shotgun_06",
+                  "sub_challenge": null,
+                  "reward": null
+              }
+          ]
+      },
+      {
+          "name": "Insolent Fools!",
+          "tags": [
+              "ChallengeBundle.Metadata.PunchCard.Combat.Opponents"
+          ],
+          "color": "ffcb7f",
+          "challenges": [
+              {
+                  "title": "Doom Henchmen eliminated",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 5,
+                  "party_assist": false,
+                  "quest_id": "Quest_PunchCard_Elim_GasketDate_01",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Doom Henchmen eliminated",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 25,
+                  "party_assist": false,
+                  "quest_id": "Quest_PunchCard_Elim_GasketDate_02",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Doom Henchmen eliminated",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 100,
+                  "party_assist": false,
+                  "quest_id": "Quest_PunchCard_Elim_GasketDate_03",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Doom Henchmen eliminated",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 250,
+                  "party_assist": false,
+                  "quest_id": "Quest_PunchCard_Elim_GasketDate_04",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Doom Henchmen eliminated",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 500,
+                  "party_assist": false,
+                  "quest_id": "Quest_PunchCard_Elim_GasketDate_05",
+                  "sub_challenge": null,
+                  "reward": null
+              }
+          ]
+      },
+      {
+          "name": "Never Saw it Coming",
+          "tags": [
+              "ChallengeBundle.Metadata.PunchCard.Combat.Gear"
+          ],
+          "color": "ffcb7f",
+          "challenges": [
+              {
+                  "title": "Opponents eliminated from over 150m away",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 1,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Elim_Far_01",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Opponents eliminated from over 150m away",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 10,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Elim_Far_02",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Opponents eliminated from over 150m away",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 25,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Elim_Far_03",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Opponents eliminated from over 150m away",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 50,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Elim_Far_04",
+                  "sub_challenge": null,
+                  "reward": null
+              }
+          ]
+      },
+      {
+          "name": "BANG!",
+          "tags": [
+              "ChallengeBundle.Metadata.PunchCard.Combat.Gear"
+          ],
+          "color": "ffcb7f",
+          "challenges": [
+              {
+                  "title": "Explosives eliminations",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 3,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Elim_Explosive_01",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Explosives eliminations",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 10,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Elim_Explosive_02",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Explosives eliminations",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 25,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Elim_Explosive_03",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Explosives eliminations",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 100,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Elim_Explosive_04",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Explosives eliminations",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 250,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Elim_Explosive_05",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Explosives eliminations",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 500,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Elim_Explosive_06",
+                  "sub_challenge": null,
+                  "reward": null
+              }
+          ]
+      },
+      {
+          "name": "RATATATA!",
+          "tags": [
+              "ChallengeBundle.Metadata.PunchCard.Combat.Gear"
+          ],
+          "color": "ffcb7f",
+          "challenges": [
+              {
+                  "title": "Assault Rifle eliminations",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 3,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Elim_Assault_01",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Assault Rifle eliminations",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 10,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Elim_Assault_02",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Assault Rifle eliminations",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 25,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Elim_Assault_03",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Assault Rifle eliminations",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 100,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Elim_Assault_04",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Assault Rifle eliminations",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 250,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Elim_Assault_05",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Assault Rifle eliminations",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 750,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Elim_Assault_06",
+                  "sub_challenge": null,
+                  "reward": null
+              }
+          ]
+      },
+      {
+          "name": "Wheelman",
+          "tags": [
+              "ChallengeBundle.MetaData.PunchCard.Valet"
+          ],
+          "color": "00fff8",
+          "challenges": [
+              {
+                  "title": "Meters driven with passengers",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 1000,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_DriveTeammates_01",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Meters driven with passengers",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 25000,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_DriveTeammates_02",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Meters driven with passengers",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 50000,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_DriveTeammates_03",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Meters driven with passengers",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 100000,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_DriveTeammates_04",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Meters driven with passengers",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 250000,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_DriveTeammates_05",
+                  "sub_challenge": null,
+                  "reward": null
+              }
+          ]
+      },
+      {
+          "name": "Doom Stands Alone!",
+          "tags": [
+              "ChallengeBundle.MetaData.PunchCard.Powers"
+          ],
+          "color": "ffcb7f",
+          "challenges": [
+              {
+                  "title": "Damage with Doctor Doom's Powers",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 250,
+                  "party_assist": false,
+                  "quest_id": "Quest_PunchCard_Damage_HightowerDate_01",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Damage with Doctor Doom's Powers",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 1000,
+                  "party_assist": false,
+                  "quest_id": "Quest_PunchCard_Damage_HightowerDate_02",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Damage with Doctor Doom's Powers",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 5000,
+                  "party_assist": false,
+                  "quest_id": "Quest_PunchCard_Damage_HightowerDate_03",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Damage with Doctor Doom's Powers",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 25000,
+                  "party_assist": false,
+                  "quest_id": "Quest_PunchCard_Damage_HightowerDate_04",
+                  "sub_challenge": null,
+                  "reward": null
+              }
+          ]
+      },
+      {
+          "name": "Dream of Green",
+          "tags": [
+              "ChallengeBundle.Metadata.PunchCard.Coins"
+          ],
+          "color": "00fff8",
+          "challenges": [
+              {
+                  "title": "Green XP Coins collected",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 3,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Coins_Green_01",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Green XP Coins collected",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 10,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Coins_Green_02",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Green XP Coins collected",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 20,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Coins_Green_03",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Green XP Coins collected",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 30,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Coins_Green_04",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Green XP Coins collected",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 40,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Coins_Green_05",
+                  "sub_challenge": null,
+                  "reward": null
+              }
+          ]
+      },
+      {
+          "name": "Foil Challenge",
+          "tags": [
+              "ChallengeCategory.Event"
+          ],
+          "color": "00da08",
+          "challenges": [
+              {
+                  "title": "Reach level 160",
+                  "stars": 0,
+                  "xp": 0,
+                  "progress_total": 160,
+                  "party_assist": false,
+                  "quest_id": "quest_superlevel_G_Squash",
+                  "sub_challenge": null,
+                  "reward": null
+              }
+          ]
+      },
+      {
+          "name": "Good as Gold",
+          "tags": [
+              "ChallengeBundle.Metadata.PunchCard.Coins"
+          ],
+          "color": "00fff8",
+          "challenges": [
+              {
+                  "title": "Golden XP Coins collected",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 1,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Coins_Gold_01",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Golden XP Coins collected",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 3,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Coins_Gold_02",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Golden XP Coins collected",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 5,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Coins_Gold_03",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Golden XP Coins collected",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 7,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Coins_Gold_04",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Golden XP Coins collected",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 10,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Coins_Gold_05",
+                  "sub_challenge": null,
+                  "reward": null
+              }
+          ]
+      },
+      {
+          "name": "Snagged",
+          "tags": [
+              "ChallengeBundle.Metadata.PunchCard.Fishing"
+          ],
+          "color": "00fff8",
+          "challenges": [
+              {
+                  "title": "Fish caught",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 1,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_CatchFish_01",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Fish caught",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 10,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_CatchFish_02",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Fish caught",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 50,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_CatchFish_03",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Fish caught",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 100,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_CatchFish_04",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Fish caught",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 250,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_CatchFish_05",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Fish caught",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 500,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_CatchFish_06",
+                  "sub_challenge": null,
+                  "reward": null
+              }
+          ]
+      },
+      {
+          "name": "On Fire",
+          "tags": [
+              "ChallengeBundle.Metadata.PunchCard.Accolades",
+              "ChallengeBundle.MetaData.PunchCard.NonSequential"
+          ],
+          "color": "00fff8",
+          "challenges": [
+              {
+                  "title": "Elimination streak accolades",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 1,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Acc_DifferentElimStreak_Double",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Elimination streak accolades",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 1,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Acc_DifferentElimStreak_Triple",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Elimination streak accolades",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 1,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Acc_DifferentElimStreak_Quad",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Elimination streak accolades",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 1,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Acc_DifferentElimStreak_Penta",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Elimination streak accolades",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 1,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Acc_DifferentElimStreak_Monster",
+                  "sub_challenge": null,
+                  "reward": null
+              }
+          ]
+      },
+      {
+          "name": "Vibranium Suit",
+          "tags": [
+              "ChallengeBundle.MetaData.PunchCard.Powers"
+          ],
+          "color": "ffcb7f",
+          "challenges": [
+              {
+                  "title": "Damage with Black Panther's Kinetic Armor",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 100,
+                  "party_assist": false,
+                  "quest_id": "Quest_PunchCard_Damage_HightowerPlum_01",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Damage with Black Panther's Kinetic Armor",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 500,
+                  "party_assist": false,
+                  "quest_id": "Quest_PunchCard_Damage_HightowerPlum_02",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Damage with Black Panther's Kinetic Armor",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 2500,
+                  "party_assist": false,
+                  "quest_id": "Quest_PunchCard_Damage_HightowerPlum_03",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Damage with Black Panther's Kinetic Armor",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 10000,
+                  "party_assist": false,
+                  "quest_id": "Quest_PunchCard_Damage_HightowerPlum_04",
+                  "sub_challenge": null,
+                  "reward": null
+              }
+          ]
+      },
+      {
+          "name": "Worthy",
+          "tags": [
+              "ChallengeBundle.MetaData.PunchCard.Powers"
+          ],
+          "color": "ffcb7f",
+          "challenges": [
+              {
+                  "title": "Damage with Thor's Mjolnir",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 250,
+                  "party_assist": false,
+                  "quest_id": "Quest_PunchCard_Damage_HightowerTapas_01",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Damage with Thor's Mjolnir",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 1000,
+                  "party_assist": false,
+                  "quest_id": "Quest_PunchCard_Damage_HightowerTapas_02",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Damage with Thor's Mjolnir",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 5000,
+                  "party_assist": false,
+                  "quest_id": "Quest_PunchCard_Damage_HightowerTapas_03",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Damage with Thor's Mjolnir",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 25000,
+                  "party_assist": false,
+                  "quest_id": "Quest_PunchCard_Damage_HightowerTapas_04",
+                  "sub_challenge": null,
+                  "reward": null
+              }
+          ]
+      },
+      {
+          "name": "Outta My Way, Bub",
+          "tags": [
+              "ChallengeBundle.MetaData.PunchCard.Powers"
+          ],
+          "color": "ffcb7f",
+          "challenges": [
+              {
+                  "title": "Damage with Wolverine's Claws",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 250,
+                  "party_assist": false,
+                  "quest_id": "Quest_PunchCard_Damage_HightowerWasabi_01",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Damage with Wolverine's Claws",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 1000,
+                  "party_assist": false,
+                  "quest_id": "Quest_PunchCard_Damage_HightowerWasabi_02",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Damage with Wolverine's Claws",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 5000,
+                  "party_assist": false,
+                  "quest_id": "Quest_PunchCard_Damage_HightowerWasabi_03",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Damage with Wolverine's Claws",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 25000,
+                  "party_assist": false,
+                  "quest_id": "Quest_PunchCard_Damage_HightowerWasabi_04",
+                  "sub_challenge": null,
+                  "reward": null
+              }
+          ]
+      },
+      {
+          "name": "Galactus Hungers",
+          "tags": [
+              "ChallengeBundle.MetaData.PunchCard.Powers"
+          ],
+          "color": "ffcb7f",
+          "challenges": [
+              {
+                  "title": "Gorgers eliminated",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 1,
+                  "party_assist": false,
+                  "quest_id": "Quest_PunchCard_Elim_Hardy_01",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Gorgers eliminated",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 5,
+                  "party_assist": false,
+                  "quest_id": "Quest_PunchCard_Elim_Hardy_02",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Gorgers eliminated",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 25,
+                  "party_assist": false,
+                  "quest_id": "Quest_PunchCard_Elim_Hardy_03",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Gorgers eliminated",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 100,
+                  "party_assist": false,
+                  "quest_id": "Quest_PunchCard_Elim_Hardy_04",
+                  "sub_challenge": null,
+                  "reward": null
+              }
+          ]
+      },
+      {
+          "name": "Goddess",
+          "tags": [
+              "ChallengeBundle.MetaData.PunchCard.Powers"
+          ],
+          "color": "ffcb7f",
+          "challenges": [
+              {
+                  "title": "Opponents hit with Storm's Whirlwind Blast",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 3,
+                  "party_assist": false,
+                  "quest_id": "Quest_PunchCard_Hit_HightowerSquash_01",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Opponents hit with Storm's Whirlwind Blast",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 15,
+                  "party_assist": false,
+                  "quest_id": "Quest_PunchCard_Hit_HightowerSquash_02",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Opponents hit with Storm's Whirlwind Blast",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 50,
+                  "party_assist": false,
+                  "quest_id": "Quest_PunchCard_Hit_HightowerSquash_03",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Opponents hit with Storm's Whirlwind Blast",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 150,
+                  "party_assist": false,
+                  "quest_id": "Quest_PunchCard_Hit_HightowerSquash_04",
+                  "sub_challenge": null,
+                  "reward": null
+              }
+          ]
+      },
+      {
+          "name": "Snack Time",
+          "tags": [
+              "ChallengeBundle.MetaData.PunchCard.Powers"
+          ],
+          "color": "ffcb7f",
+          "challenges": [
+              {
+                  "title": "Opponents hit with Venom's Smash and Grab",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 1,
+                  "party_assist": false,
+                  "quest_id": "Quest_PunchCard_Hit_HightowerVertigo_01",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Opponents hit with Venom's Smash and Grab",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 10,
+                  "party_assist": false,
+                  "quest_id": "Quest_PunchCard_Hit_HightowerVertigo_02",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Opponents hit with Venom's Smash and Grab",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 25,
+                  "party_assist": false,
+                  "quest_id": "Quest_PunchCard_Hit_HightowerVertigo_03",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Opponents hit with Venom's Smash and Grab",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 100,
+                  "party_assist": false,
+                  "quest_id": "Quest_PunchCard_Hit_HightowerVertigo_04",
+                  "sub_challenge": null,
+                  "reward": null
+              }
+          ]
+      },
+      {
+          "name": "Foil Challenge",
+          "tags": [
+              "ChallengeCategory.Event"
+          ],
+          "color": "00da08",
+          "challenges": [
+              {
+                  "title": "Reach level 175",
+                  "stars": 0,
+                  "xp": 0,
+                  "progress_total": 175,
+                  "party_assist": false,
+                  "quest_id": "quest_superlevel_G_Tomato",
+                  "sub_challenge": null,
+                  "reward": null
+              }
+          ]
+      },
+      {
+          "name": "Rampage",
+          "tags": [
+              "ChallengeBundle.MetaData.PunchCard.Powers"
+          ],
+          "color": "ffcb7f",
+          "challenges": [
+              {
+                  "title": "Damage with She-Hulk's Fists",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 250,
+                  "party_assist": false,
+                  "quest_id": "Quest_PunchCard_Damage_HightowerHoneyDew_01",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Damage with She-Hulk's Fists",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 1000,
+                  "party_assist": false,
+                  "quest_id": "Quest_PunchCard_Damage_HightowerHoneyDew_02",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Damage with She-Hulk's Fists",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 5000,
+                  "party_assist": false,
+                  "quest_id": "Quest_PunchCard_Damage_HightowerHoneyDew_03",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Damage with She-Hulk's Fists",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 25000,
+                  "party_assist": false,
+                  "quest_id": "Quest_PunchCard_Damage_HightowerHoneyDew_04",
+                  "sub_challenge": null,
+                  "reward": null
+              }
+          ]
+      },
+      {
+          "name": "Stark Tech",
+          "tags": [
+              "ChallengeBundle.MetaData.PunchCard.Powers"
+          ],
+          "color": "ffcb7f",
+          "challenges": [
+              {
+                  "title": "Damage with Iron Man's Repulsors",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 250,
+                  "party_assist": false,
+                  "quest_id": "Quest_PunchCard_Damage_HightowerTomato_01",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Damage with Iron Man's Repulsors",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 1000,
+                  "party_assist": false,
+                  "quest_id": "Quest_PunchCard_Damage_HightowerTomato_02",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Damage with Iron Man's Repulsors",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 5000,
+                  "party_assist": false,
+                  "quest_id": "Quest_PunchCard_Damage_HightowerTomato_03",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Damage with Iron Man's Repulsors",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 25000,
+                  "party_assist": false,
+                  "quest_id": "Quest_PunchCard_Damage_HightowerTomato_04",
+                  "sub_challenge": null,
+                  "reward": null
+              }
+          ]
+      },
+      {
+          "name": "",
+          "tags": [],
+          "color": "00da08",
+          "challenges": [
+              {
+                  "title": "Collect Blue XP Coins",
+                  "stars": 0,
+                  "xp": 0,
+                  "progress_total": 1,
+                  "party_assist": false,
+                  "quest_id": "quest_s14_w4_xpcoins_blue",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Collect Gold XP Coins",
+                  "stars": 0,
+                  "xp": 0,
+                  "progress_total": 1,
+                  "party_assist": false,
+                  "quest_id": "quest_s14_w4_xpcoins_gold",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Collect Green XP Coins",
+                  "stars": 0,
+                  "xp": 0,
+                  "progress_total": 1,
+                  "party_assist": false,
+                  "quest_id": "quest_s14_w4_xpcoins_green",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Collect Purple XP Coins",
+                  "stars": 0,
+                  "xp": 0,
+                  "progress_total": 1,
+                  "party_assist": false,
+                  "quest_id": "quest_s14_w4_xpcoins_purple",
+                  "sub_challenge": null,
+                  "reward": null
+              }
+          ]
+      },
+      {
+          "name": "",
+          "tags": [],
+          "color": "00da08",
+          "challenges": [
+              {
+                  "title": "Collect Blue XP Coins",
+                  "stars": 0,
+                  "xp": 0,
+                  "progress_total": 1,
+                  "party_assist": false,
+                  "quest_id": "quest_s14_w3_xpcoins_blue",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Collect Gold XP Coins",
+                  "stars": 0,
+                  "xp": 0,
+                  "progress_total": 1,
+                  "party_assist": false,
+                  "quest_id": "quest_s14_w3_xpcoins_gold",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Collect Green XP Coins",
+                  "stars": 0,
+                  "xp": 0,
+                  "progress_total": 1,
+                  "party_assist": false,
+                  "quest_id": "quest_s14_w3_xpcoins_green",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Collect Purple XP Coins",
+                  "stars": 0,
+                  "xp": 0,
+                  "progress_total": 1,
+                  "party_assist": false,
+                  "quest_id": "quest_s14_w3_xpcoins_purple",
+                  "sub_challenge": null,
+                  "reward": null
+              }
+          ]
+      },
+      {
+          "name": "",
+          "tags": [],
+          "color": "00da08",
+          "challenges": [
+              {
+                  "title": "Collect Blue XP Coins",
+                  "stars": 0,
+                  "xp": 0,
+                  "progress_total": 1,
+                  "party_assist": false,
+                  "quest_id": "quest_s14_w2_xpcoins_blue",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Collect Green XP Coins",
+                  "stars": 0,
+                  "xp": 0,
+                  "progress_total": 1,
+                  "party_assist": false,
+                  "quest_id": "quest_s14_w2_xpcoins_green",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Collect Purple XP Coins",
+                  "stars": 0,
+                  "xp": 0,
+                  "progress_total": 1,
+                  "party_assist": false,
+                  "quest_id": "quest_s14_w2_xpcoins_purple",
+                  "sub_challenge": null,
+                  "reward": null
+              }
+          ]
+      },
+      {
+          "name": "Foil Challenge",
+          "tags": [
+              "ChallengeCategory.Event"
+          ],
+          "color": "00da08",
+          "challenges": [
+              {
+                  "title": "Reach level 180",
+                  "stars": 0,
+                  "xp": 0,
+                  "progress_total": 180,
+                  "party_assist": false,
+                  "quest_id": "quest_superlevel_G_Wasabi",
+                  "sub_challenge": null,
+                  "reward": null
+              }
+          ]
+      },
+      {
+          "name": "",
+          "tags": [],
+          "color": "00da08",
+          "challenges": [
+              {
+                  "title": "Collect Blue XP Coins",
+                  "stars": 0,
+                  "xp": 0,
+                  "progress_total": 1,
+                  "party_assist": false,
+                  "quest_id": "quest_s14_w1_xpcoins_blue",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Collect Green XP Coins",
+                  "stars": 0,
+                  "xp": 0,
+                  "progress_total": 1,
+                  "party_assist": false,
+                  "quest_id": "quest_s14_w1_xpcoins_green",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Collect Purple XP Coins",
+                  "stars": 0,
+                  "xp": 0,
+                  "progress_total": 1,
+                  "party_assist": false,
+                  "quest_id": "quest_s14_w1_xpcoins_purple",
+                  "sub_challenge": null,
+                  "reward": null
+              }
+          ]
+      },
+      {
+          "name": "Foil Challenge",
+          "tags": [
+              "ChallengeCategory.Event"
+          ],
+          "color": "00da08",
+          "challenges": [
+              {
+                  "title": "Reach level 195",
+                  "stars": 0,
+                  "xp": 0,
+                  "progress_total": 195,
+                  "party_assist": false,
+                  "quest_id": "quest_superlevel_H_Grape",
+                  "sub_challenge": null,
+                  "reward": null
+              }
+          ]
+      },
+      {
+          "name": "Foil Challenge",
+          "tags": [
+              "ChallengeCategory.Event"
+          ],
+          "color": "00da08",
+          "challenges": [
+              {
+                  "title": "Reach level 210",
+                  "stars": 0,
+                  "xp": 0,
+                  "progress_total": 210,
+                  "party_assist": false,
+                  "quest_id": "quest_superlevel_H_Mango",
+                  "sub_challenge": null,
+                  "reward": null
+              }
+          ]
+      },
+      {
+          "name": "Foil Challenge",
+          "tags": [
+              "ChallengeCategory.Event"
+          ],
+          "color": "00da08",
+          "challenges": [
+              {
+                  "title": "Reach level 185",
+                  "stars": 0,
+                  "xp": 0,
+                  "progress_total": 185,
+                  "party_assist": false,
+                  "quest_id": "quest_superlevel_H_Tapas",
+                  "sub_challenge": null,
+                  "reward": null
+              }
+          ]
+      },
+      {
+          "name": "Foil Challenge",
+          "tags": [
+              "ChallengeCategory.Event"
+          ],
+          "color": "00da08",
+          "challenges": [
+              {
+                  "title": "Reach level 220",
+                  "stars": 0,
+                  "xp": 0,
+                  "progress_total": 220,
+                  "party_assist": false,
+                  "quest_id": "quest_superlevel_H_Wasabi",
+                  "sub_challenge": null,
+                  "reward": null
+              }
+          ]
+      },
+      {
+          "name": "Foil Challenge",
+          "tags": [
+              "ChallengeCategory.Event"
+          ],
+          "color": "00da08",
+          "challenges": [
+              {
+                  "title": "Reach level 115",
+                  "stars": 0,
+                  "xp": 0,
+                  "progress_total": 115,
+                  "party_assist": false,
+                  "quest_id": "quest_superlevel_S_Grape",
+                  "sub_challenge": null,
+                  "reward": null
+              }
+          ]
+      },
+      {
+          "name": "Foil Challenge",
+          "tags": [
+              "ChallengeCategory.Event"
+          ],
+          "color": "00da08",
+          "challenges": [
+              {
+                  "title": "Reach level 110",
+                  "stars": 0,
+                  "xp": 0,
+                  "progress_total": 110,
+                  "party_assist": false,
+                  "quest_id": "quest_superlevel_S_HoneyDew",
+                  "sub_challenge": null,
+                  "reward": null
+              }
+          ]
+      },
+      {
+          "name": "Style Challenge",
+          "tags": [],
+          "color": "00da08",
+          "challenges": [
+              {
+                  "title": "Reach level 67",
+                  "stars": 0,
+                  "xp": 0,
+                  "progress_total": 67,
+                  "party_assist": false,
+                  "quest_id": "quest_style_Date_q01",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Complete Challenges from Week 7 or 8",
+                  "stars": 0,
+                  "xp": 0,
+                  "progress_total": 10,
+                  "party_assist": false,
+                  "quest_id": "quest_style_Date_q02",
+                  "sub_challenge": null,
+                  "reward": null
+              }
+          ]
+      },
+      {
+          "name": "Foil Challenge",
+          "tags": [
+              "ChallengeCategory.Event"
+          ],
+          "color": "00da08",
+          "challenges": [
+              {
+                  "title": "Reach level 120",
+                  "stars": 0,
+                  "xp": 0,
+                  "progress_total": 120,
+                  "party_assist": false,
+                  "quest_id": "quest_superlevel_S_Squash",
+                  "sub_challenge": null,
+                  "reward": null
+              }
+          ]
+      },
+      {
+          "name": "Foil Challenge",
+          "tags": [
+              "ChallengeCategory.Event"
+          ],
+          "color": "00da08",
+          "challenges": [
+              {
+                  "title": "Reach level 135",
+                  "stars": 0,
+                  "xp": 0,
+                  "progress_total": 135,
+                  "party_assist": false,
+                  "quest_id": "quest_superlevel_S_Tomato",
+                  "sub_challenge": null,
+                  "reward": null
+              }
+          ]
+      },
+      {
+          "name": "Wolverine Challenges",
+          "tags": [
+              "ChallengeCategory.Event",
+              "Quest.ChallengeCharacter.Wasabi"
+          ],
+          "color": "00da08",
+          "challenges": [
+              {
+                  "title": "Investigate mysterious claw marks",
+                  "stars": 0,
+                  "xp": 0,
+                  "progress_total": 3,
+                  "party_assist": false,
+                  "quest_id": "quest_s14_wasabi_q01",
+                  "sub_challenge": null,
+                  "reward": null
+              }
+          ]
+      },
+      {
+          "name": "Wolverine Challenges",
+          "tags": [
+              "ChallengeCategory.Event",
+              "Quest.ChallengeCharacter.Wasabi"
+          ],
+          "color": "00da08",
+          "challenges": [
+              {
+                  "title": "Launch off all Sentinel Hands without touching the ground",
+                  "stars": 0,
+                  "xp": 0,
+                  "progress_total": 1,
+                  "party_assist": false,
+                  "quest_id": "quest_s14_wasabi_q04",
+                  "sub_challenge": null,
+                  "reward": null
+              }
+          ]
+      },
+      {
+          "name": "Wolverine Challenges",
+          "tags": [
+              "ChallengeCategory.Event",
+              "Quest.ChallengeCharacter.Wasabi"
+          ],
+          "color": "00da08",
+          "challenges": [
+              {
+                  "title": "Find Wolverine's Trophy in Dirty Docks",
+                  "stars": 0,
+                  "xp": 0,
+                  "progress_total": 1,
+                  "party_assist": false,
+                  "quest_id": "quest_s14_wasabi_q03",
+                  "sub_challenge": null,
+                  "reward": null
+              }
+          ]
+      },
+      {
+          "name": "Wolverine Challenges",
+          "tags": [
+              "ChallengeCategory.Event",
+              "Quest.ChallengeCharacter.Wasabi"
+          ],
+          "color": "00da08",
+          "challenges": [
+              {
+                  "title": "Find the Loading Screen picture at a Quinjet Patrol site",
+                  "stars": 0,
+                  "xp": 0,
+                  "progress_total": 1,
+                  "party_assist": false,
+                  "quest_id": "quest_s14_wasabi_q02",
+                  "sub_challenge": null,
+                  "reward": null
+              }
+          ]
+      },
+      {
+          "name": "Foil Challenge",
+          "tags": [
+              "ChallengeCategory.Event"
+          ],
+          "color": "00da08",
+          "challenges": [
+              {
+                  "title": "Reach level 140",
+                  "stars": 0,
+                  "xp": 0,
+                  "progress_total": 140,
+                  "party_assist": false,
+                  "quest_id": "quest_superlevel_S_Wasabi",
+                  "sub_challenge": null,
+                  "reward": null
+              }
+          ]
+      },
+      {
+          "name": "Style Challenge",
+          "tags": [],
+          "color": "00da08",
+          "challenges": [
+              {
+                  "title": "Reach level 80",
+                  "stars": 0,
+                  "xp": 0,
+                  "progress_total": 80,
+                  "party_assist": false,
+                  "quest_id": "quest_style_Mango_q01",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Complete Challenges from Week 9 or 10",
+                  "stars": 0,
+                  "xp": 0,
+                  "progress_total": 10,
+                  "party_assist": false,
+                  "quest_id": "quest_style_Mango_q02",
+                  "sub_challenge": null,
+                  "reward": null
+              }
+          ]
+      },
+      {
+          "name": "Foil Challenge",
+          "tags": [
+              "ChallengeCategory.Event"
+          ],
+          "color": "00da08",
+          "challenges": [
+              {
+                  "title": "Reach level 105",
+                  "stars": 0,
+                  "xp": 0,
+                  "progress_total": 105,
+                  "party_assist": false,
+                  "quest_id": "quest_superlevel_S_Tapas",
+                  "sub_challenge": null,
+                  "reward": null
+              }
+          ]
+      },
+      {
+          "name": "Foil Challenge",
+          "tags": [
+              "ChallengeCategory.Event"
+          ],
+          "color": "00da08",
+          "challenges": [
+              {
+                  "title": "Reach level 125",
+                  "stars": 0,
+                  "xp": 0,
+                  "progress_total": 125,
+                  "party_assist": false,
+                  "quest_id": "quest_superlevel_S_Date",
+                  "sub_challenge": null,
+                  "reward": null
+              }
+          ]
+      },
+      {
+          "name": "Foil Challenge",
+          "tags": [
+              "ChallengeCategory.Event"
+          ],
+          "color": "00da08",
+          "challenges": [
+              {
+                  "title": "Reach level 215",
+                  "stars": 0,
+                  "xp": 0,
+                  "progress_total": 215,
+                  "party_assist": false,
+                  "quest_id": "quest_superlevel_H_Tomato",
+                  "sub_challenge": null,
+                  "reward": null
+              }
+          ]
+      },
+      {
+          "name": "Foil Challenge",
+          "tags": [
+              "ChallengeCategory.Event"
+          ],
+          "color": "00da08",
+          "challenges": [
+              {
+                  "title": "Reach level 130",
+                  "stars": 0,
+                  "xp": 0,
+                  "progress_total": 130,
+                  "party_assist": false,
+                  "quest_id": "quest_superlevel_S_Mango",
+                  "sub_challenge": null,
+                  "reward": null
+              }
+          ]
+      },
+      {
+          "name": "Foil Challenge",
+          "tags": [
+              "ChallengeCategory.Event"
+          ],
+          "color": "00da08",
+          "challenges": [
+              {
+                  "title": "Reach level 200",
+                  "stars": 0,
+                  "xp": 0,
+                  "progress_total": 200,
+                  "party_assist": false,
+                  "quest_id": "quest_superlevel_H_Squash",
+                  "sub_challenge": null,
+                  "reward": null
+              }
+          ]
+      },
+      {
+          "name": "Foil Challenge",
+          "tags": [
+              "ChallengeCategory.Event"
+          ],
+          "color": "00da08",
+          "challenges": [
+              {
+                  "title": "Reach level 190",
+                  "stars": 0,
+                  "xp": 0,
+                  "progress_total": 190,
+                  "party_assist": false,
+                  "quest_id": "quest_superlevel_H_HoneyDew",
+                  "sub_challenge": null,
+                  "reward": null
+              }
+          ]
+      },
+      {
+          "name": "Foil Challenge",
+          "tags": [
+              "ChallengeCategory.Event"
+          ],
+          "color": "00da08",
+          "challenges": [
+              {
+                  "title": "Reach level 145",
+                  "stars": 0,
+                  "xp": 0,
+                  "progress_total": 145,
+                  "party_assist": false,
+                  "quest_id": "quest_superlevel_G_Tapas",
+                  "sub_challenge": null,
+                  "reward": null
+              }
+          ]
+      },
+      {
+          "name": "Foil Challenge",
+          "tags": [
+              "ChallengeCategory.Event"
+          ],
+          "color": "00da08",
+          "challenges": [
+              {
+                  "title": "Reach level 205",
+                  "stars": 0,
+                  "xp": 0,
+                  "progress_total": 205,
+                  "party_assist": false,
+                  "quest_id": "quest_superlevel_H_Date",
+                  "sub_challenge": null,
+                  "reward": null
+              }
+          ]
+      },
+      {
+          "name": "Foil Challenge",
+          "tags": [
+              "ChallengeCategory.Event"
+          ],
+          "color": "00da08",
+          "challenges": [
+              {
+                  "title": "Reach level 170",
+                  "stars": 0,
+                  "xp": 0,
+                  "progress_total": 170,
+                  "party_assist": false,
+                  "quest_id": "quest_superlevel_G_Mango",
+                  "sub_challenge": null,
+                  "reward": null
+              }
+          ]
+      },
+      {
+          "name": "Foil Challenge",
+          "tags": [
+              "ChallengeCategory.Event"
+          ],
+          "color": "00da08",
+          "challenges": [
+              {
+                  "title": "Reach level 155",
+                  "stars": 0,
+                  "xp": 0,
+                  "progress_total": 155,
+                  "party_assist": false,
+                  "quest_id": "quest_superlevel_G_Grape",
+                  "sub_challenge": null,
+                  "reward": null
+              }
+          ]
+      },
+      {
+          "name": "Style Challenge",
+          "tags": [],
+          "color": "00da08",
+          "challenges": [
+              {
+                  "title": "Complete Wolverine Challenges",
+                  "stars": 0,
+                  "xp": 0,
+                  "progress_total": 6,
+                  "party_assist": false,
+                  "quest_id": "quest_style_WasabiC_q01",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Complete Weekly Challenges",
+                  "stars": 0,
+                  "xp": 0,
+                  "progress_total": 60,
+                  "party_assist": false,
+                  "quest_id": "quest_style_WasabiC_q02",
+                  "sub_challenge": null,
+                  "reward": null
+              }
+          ]
+      },
+      {
+          "name": "Style Challenge",
+          "tags": [],
+          "color": "00da08",
+          "challenges": [
+              {
+                  "title": "Reach level 22",
+                  "stars": 0,
+                  "xp": 0,
+                  "progress_total": 22,
+                  "party_assist": false,
+                  "quest_id": "quest_style_HoneyDew_q01",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Complete Challenges from Week 1 or 2",
+                  "stars": 0,
+                  "xp": 0,
+                  "progress_total": 10,
+                  "party_assist": false,
+                  "quest_id": "quest_style_HoneyDew_q02",
+                  "sub_challenge": null,
+                  "reward": null
+              }
+          ]
+      },
+      {
+          "name": "Style Challenge",
+          "tags": [],
+          "color": "00da08",
+          "challenges": [
+              {
+                  "title": "Unlock Wolverine Outfit",
+                  "stars": 0,
+                  "xp": 0,
+                  "progress_total": 1,
+                  "party_assist": false,
+                  "quest_id": "quest_style_WasabiB_q01",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Complete Challenges from Week 5 or 6",
+                  "stars": 0,
+                  "xp": 0,
+                  "progress_total": 10,
+                  "party_assist": false,
+                  "quest_id": "quest_style_WasabiB_q02",
+                  "sub_challenge": null,
+                  "reward": null
+              }
+          ]
+      },
+      {
+          "name": "Versatile",
+          "tags": [
+              "ChallengeBundle.Metadata.PunchCard.Accolades",
+              "ChallengeBundle.MetaData.PunchCard.NonSequential"
+          ],
+          "color": "00fff8",
+          "challenges": [
+              {
+                  "title": "Different Expert accolades",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 1,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Acc_DifferentExpert_Pistol",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Different Expert accolades",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 1,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Acc_DifferentExpert_Assault",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Different Expert accolades",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 1,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Acc_DifferentExpert_SMG",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Different Expert accolades",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 1,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Acc_DifferentExpert_Shotgun",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Different Expert accolades",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 1,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Acc_DifferentExpert_Sniper",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Different Expert accolades",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 1,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Acc_DifferentExpert_Explosives",
+                  "sub_challenge": null,
+                  "reward": null
+              }
+          ]
+      },
+      {
+          "name": "A Legacy to Remember",
+          "tags": [
+              "ChallengeBundle.Metadata.PunchCard.Meta"
+          ],
+          "color": "00fff8",
+          "challenges": [
+              {
+                  "title": "Legacies earned during Season 4",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 5,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Achievements_01",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Legacies earned during Season 4",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 10,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Achievements_02",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Legacies earned during Season 4",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 15,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Achievements_03",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Legacies earned during Season 4",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 30,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Achievements_04",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Legacies earned during Season 4",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 50,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Achievements_05",
+                  "sub_challenge": null,
+                  "reward": null
+              }
+          ]
+      },
+      {
+          "name": "Deja Blue",
+          "tags": [
+              "ChallengeBundle.Metadata.PunchCard.Coins"
+          ],
+          "color": "00fff8",
+          "challenges": [
+              {
+                  "title": "Blue XP Coins collected",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 3,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Coins_Blue_01",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Blue XP Coins collected",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 5,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Coins_Blue_02",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Blue XP Coins collected",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 10,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Coins_Blue_03",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Blue XP Coins collected",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 20,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Coins_Blue_04",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Blue XP Coins collected",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 30,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Coins_Blue_05",
+                  "sub_challenge": null,
+                  "reward": null
+              }
+          ]
+      },
+      {
+          "name": "Purple Power",
+          "tags": [
+              "ChallengeBundle.Metadata.PunchCard.Coins"
+          ],
+          "color": "00fff8",
+          "challenges": [
+              {
+                  "title": "Purple XP Coins collected",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 3,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Coins_Purple_01",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Purple XP Coins collected",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 5,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Coins_Purple_02",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Purple XP Coins collected",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 10,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Coins_Purple_03",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Purple XP Coins collected",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 15,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Coins_Purple_04",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Purple XP Coins collected",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 20,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Coins_Purple_05",
+                  "sub_challenge": null,
+                  "reward": null
+              }
+          ]
+      },
+      {
+          "name": "POW!",
+          "tags": [
+              "ChallengeBundle.Metadata.PunchCard.Combat.Opponents"
+          ],
+          "color": "ffcb7f",
+          "challenges": [
+              {
+                  "title": "Damage to opponents",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 1000,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Damage_01",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Damage to opponents",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 25000,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Damage_02",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Damage to opponents",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 100000,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Damage_03",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Damage to opponents",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 250000,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Damage_04",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Damage to opponents",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 500000,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Damage_05",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Damage to opponents",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 1000000,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Damage_06",
+                  "sub_challenge": null,
+                  "reward": null
+              }
+          ]
+      },
+      {
+          "name": "Whack a Drone",
+          "tags": [
+              "ChallengeBundle.Metadata.PunchCard.Looting"
+          ],
+          "color": "ffcb7f",
+          "challenges": [
+              {
+                  "title": "Stark Industries Supply Drones destroyed",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 3,
+                  "party_assist": false,
+                  "quest_id": "Quest_PunchCard_DestroyHightowerSuperDingo_01",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Stark Industries Supply Drones destroyed",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 10,
+                  "party_assist": false,
+                  "quest_id": "Quest_PunchCard_DestroyHightowerSuperDingo_02",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Stark Industries Supply Drones destroyed",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 25,
+                  "party_assist": false,
+                  "quest_id": "Quest_PunchCard_DestroyHightowerSuperDingo_03",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Stark Industries Supply Drones destroyed",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 100,
+                  "party_assist": false,
+                  "quest_id": "Quest_PunchCard_DestroyHightowerSuperDingo_04",
+                  "sub_challenge": null,
+                  "reward": null
+              }
+          ]
+      },
+      {
+          "name": "Chop Chop",
+          "tags": [
+              "ChallengeBundle.Metadata.PunchCard.Harvesting"
+          ],
+          "color": "00fff8",
+          "challenges": [
+              {
+                  "title": "Trees destroyed",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 25,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_DestroyTrees_01",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Trees destroyed",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 100,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_DestroyTrees_02",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Trees destroyed",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 1000,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_DestroyTrees_03",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Trees destroyed",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 5000,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_DestroyTrees_04",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Trees destroyed",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 25000,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_DestroyTrees_05",
+                  "sub_challenge": null,
+                  "reward": null
+              }
+          ]
+      },
+      {
+          "name": "Never Stood a Chance",
+          "tags": [
+              "ChallengeBundle.Metadata.PunchCard.Combat.Opponents"
+          ],
+          "color": "ffcb7f",
+          "challenges": [
+              {
+                  "title": "Players eliminated",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 5,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Elim_01",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Players eliminated",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 25,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Elim_02",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Players eliminated",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 100,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Elim_03",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Players eliminated",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 500,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Elim_04",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Players eliminated",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 1000,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Elim_05",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Players eliminated",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 2500,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Elim_06",
+                  "sub_challenge": null,
+                  "reward": null
+              }
+          ]
+      },
+      {
+          "name": "Tools of the Trade",
+          "tags": [
+              "ChallengeBundle.MetaData.PunchCard.NonSequential",
+              "ChallengeBundle.Metadata.PunchCard.Combat.Gear"
+          ],
+          "color": "00fff8",
+          "challenges": [
+              {
+                  "title": "Eliminations with different weapon types",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 1,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Elim_DifferentWeapons_Pistol",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Eliminations with different weapon types",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 1,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Elim_DifferentWeapons_Assault",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Eliminations with different weapon types",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 1,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Elim_DifferentWeapons_SMG",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Eliminations with different weapon types",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 1,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Elim_DifferentWeapons_Shotgun",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Eliminations with different weapon types",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 1,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Elim_DifferentWeapons_Sniper",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Eliminations with different weapon types",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 1,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Elim_DifferentWeapons_Explosives",
+                  "sub_challenge": null,
+                  "reward": null
+              }
+          ]
+      },
+      {
+          "name": "Hot Seat",
+          "tags": [
+              "ChallengeBundle.Metadata.PunchCard.Misc"
+          ],
+          "color": "ffcb7f",
+          "challenges": [
+              {
+                  "title": "Eliminated a player with a Fire Trap",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 1,
+                  "party_assist": false,
+                  "quest_id": "Quest_PunchCard_Elim_FireTrap_01",
+                  "sub_challenge": null,
+                  "reward": null
+              }
+          ]
+      },
+      {
+          "name": "Robot Army",
+          "tags": [
+              "ChallengeBundle.Metadata.PunchCard.Combat.Opponents"
+          ],
+          "color": "ffcb7f",
+          "challenges": [
+              {
+                  "title": "Stark Robots eliminated",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 5,
+                  "party_assist": false,
+                  "quest_id": "Quest_PunchCard_Elim_GasketTomato_01",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Stark Robots eliminated",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 25,
+                  "party_assist": false,
+                  "quest_id": "Quest_PunchCard_Elim_GasketTomato_02",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Stark Robots eliminated",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 100,
+                  "party_assist": false,
+                  "quest_id": "Quest_PunchCard_Elim_GasketTomato_03",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Stark Robots eliminated",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 250,
+                  "party_assist": false,
+                  "quest_id": "Quest_PunchCard_Elim_GasketTomato_04",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Stark Robots eliminated",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 500,
+                  "party_assist": false,
+                  "quest_id": "Quest_PunchCard_Elim_GasketTomato_05",
+                  "sub_challenge": null,
+                  "reward": null
+              }
+          ]
+      },
+      {
+          "name": "POP!",
+          "tags": [
+              "ChallengeBundle.Metadata.PunchCard.Combat.Gear"
+          ],
+          "color": "ffcb7f",
+          "challenges": [
+              {
+                  "title": "Pistol eliminations",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 3,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Elim_Pistol_01",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Pistol eliminations",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 10,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Elim_Pistol_02",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Pistol eliminations",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 25,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Elim_Pistol_03",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Pistol eliminations",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 100,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Elim_Pistol_04",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Pistol eliminations",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 250,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Elim_Pistol_05",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Pistol eliminations",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 500,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Elim_Pistol_06",
+                  "sub_challenge": null,
+                  "reward": null
+              }
+          ]
+      },
+      {
+          "name": "BAM!",
+          "tags": [
+              "ChallengeBundle.Metadata.PunchCard.Combat.Gear"
+          ],
+          "color": "ffcb7f",
+          "challenges": [
+              {
+                  "title": "Sniper Rifle eliminations",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 3,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Elim_Sniper_01",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Sniper Rifle eliminations",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 10,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Elim_Sniper_02",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Sniper Rifle eliminations",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 25,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Elim_Sniper_03",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Sniper Rifle eliminations",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 100,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Elim_Sniper_04",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Sniper Rifle eliminations",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 250,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Elim_Sniper_05",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Sniper Rifle eliminations",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 750,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Elim_Sniper_06",
+                  "sub_challenge": null,
+                  "reward": null
+              }
+          ]
+      },
+      {
+          "name": "Anglin'",
+          "tags": [
+              "ChallengeBundle.Metadata.PunchCard.Fishing"
+          ],
+          "color": "00fff8",
+          "challenges": [
+              {
+                  "title": "Fishing Spots used",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 3,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_GoFishing_01",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Fishing Spots used",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 15,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_GoFishing_02",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Fishing Spots used",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 75,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_GoFishing_03",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Fishing Spots used",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 250,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_GoFishing_04",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Fishing Spots used",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 500,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_GoFishing_05",
+                  "sub_challenge": null,
+                  "reward": null
+              }
+          ]
+      },
+      {
+          "name": "Nest Egg",
+          "tags": [
+              "ChallengeBundle.Metadata.PunchCard.Harvesting"
+          ],
+          "color": "00fff8",
+          "challenges": [
+              {
+                  "title": "Simultaneously held 999 of each building resource",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 1,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_MaxResources_01",
+                  "sub_challenge": null,
+                  "reward": null
+              }
+          ]
+      },
+      {
+          "name": "I Am Groot",
+          "tags": [
+              "ChallengeBundle.MetaData.PunchCard.Powers"
+          ],
+          "color": "ffcb7f",
+          "challenges": [
+              {
+                  "title": "Damage absorbed with Groot's Bramble Shield",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 250,
+                  "party_assist": false,
+                  "quest_id": "Quest_PunchCard_HightowerGrapeAbsorb_01",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Damage absorbed with Groot's Bramble Shield",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 1000,
+                  "party_assist": false,
+                  "quest_id": "Quest_PunchCard_HightowerGrapeAbsorb_02",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Damage absorbed with Groot's Bramble Shield",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 2500,
+                  "party_assist": false,
+                  "quest_id": "Quest_PunchCard_HightowerGrapeAbsorb_03",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Damage absorbed with Groot's Bramble Shield",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 15000,
+                  "party_assist": false,
+                  "quest_id": "Quest_PunchCard_HightowerGrapeAbsorb_04",
+                  "sub_challenge": null,
+                  "reward": null
+              }
+          ]
+      },
+      {
+          "name": "Thriving",
+          "tags": [
+              "ChallengeBundle.Metadata.PunchCard.Placement"
+          ],
+          "color": "00fff8",
+          "challenges": [
+              {
+                  "title": "Top 10 placements",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 3,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Placement_01",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Top 10 placements",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 10,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Placement_02",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Top 10 placements",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 25,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Placement_03",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Top 10 placements",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 50,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Placement_04",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Top 10 placements",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 100,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Placement_05",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Top 10 placements",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 250,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Placement_06",
+                  "sub_challenge": null,
+                  "reward": null
+              }
+          ]
+      },
+      {
+          "name": "Punchy",
+          "tags": [
+              "ChallengeBundle.Metadata.PunchCard.Meta"
+          ],
+          "color": "00fff8",
+          "challenges": [
+              {
+                  "title": "Punch Card punches",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 10,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_PunchCardPunches_01",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Punch Card punches",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 25,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_PunchCardPunches_02",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Punch Card punches",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 100,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_PunchCardPunches_03",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Punch Card punches",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 200,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_PunchCardPunches_04",
+                  "sub_challenge": null,
+                  "reward": null
+              }
+          ]
+      },
+      {
+          "name": "Up and At 'Em",
+          "tags": [
+              "ChallengeBundle.Metadata.PunchCard.Teamwork"
+          ],
+          "color": "ffcb7f",
+          "challenges": [
+              {
+                  "title": "Teammates revived",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 5,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_ReviveTeammates_01",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Teammates revived",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 10,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_ReviveTeammates_02",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Teammates revived",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 25,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_ReviveTeammates_03",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Teammates revived",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 50,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_ReviveTeammates_04",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Teammates revived",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 100,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_ReviveTeammates_05",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Teammates revived",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 250,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_ReviveTeammates_06",
+                  "sub_challenge": null,
+                  "reward": null
+              }
+          ]
+      },
+      {
+          "name": "Look What I Found!",
+          "tags": [
+              "ChallengeBundle.Metadata.PunchCard.Looting"
+          ],
+          "color": "00fff8",
+          "challenges": [
+              {
+                  "title": "Chests Searched",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 10,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Search_Chests_01",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Chests Searched",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 50,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Search_Chests_02",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Chests Searched",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 500,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Search_Chests_03",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Chests Searched",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 1000,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Search_Chests_04",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Chests Searched",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 2500,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Search_Chests_05",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Chests Searched",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 5000,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Search_Chests_06",
+                  "sub_challenge": null,
+                  "reward": null
+              }
+          ]
+      },
+      {
+          "name": "Free Delivery",
+          "tags": [
+              "ChallengeBundle.Metadata.PunchCard.Looting"
+          ],
+          "color": "00fff8",
+          "challenges": [
+              {
+                  "title": "Supply Drops Searched",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 1,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Search_SupplyDrops_01",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Supply Drops Searched",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 10,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Search_SupplyDrops_02",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Supply Drops Searched",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 25,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Search_SupplyDrops_03",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Supply Drops Searched",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 50,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Search_SupplyDrops_04",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Supply Drops Searched",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 100,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Search_SupplyDrops_05",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Supply Drops Searched",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 250,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Search_SupplyDrops_06",
+                  "sub_challenge": null,
+                  "reward": null
+              }
+          ]
+      },
+      {
+          "name": "Q&A",
+          "tags": [
+              "ChallengeBundle.Metadata.PunchCard.Misc"
+          ],
+          "color": "00fff8",
+          "challenges": [
+              {
+                  "title": "Shakedowns",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 3,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Shakedowns_01",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Shakedowns",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 10,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Shakedowns_02",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Shakedowns",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 50,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Shakedowns_03",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Shakedowns",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 100,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Shakedowns_04",
+                  "sub_challenge": null,
+                  "reward": null
+              }
+          ]
+      },
+      {
+          "name": "Now For Something DIfferent",
+          "tags": [
+              "ChallengeBundle.Metadata.PunchCard.UpgradeMachine"
+          ],
+          "color": "00fff8",
+          "challenges": [
+              {
+                  "title": "Sidegraded a weapon",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 1,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_SidegradeWeapons_01",
+                  "sub_challenge": null,
+                  "reward": null
+              }
+          ]
+      },
+      {
+          "name": "Working Out the Kinks",
+          "tags": [
+              "ChallengeBundle.Metadata.PunchCard.UpgradeMachine"
+          ],
+          "color": "00fff8",
+          "challenges": [
+              {
+                  "title": "Weapons Upgraded",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 10,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_UpgradeWeapons_01",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Weapons Upgraded",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 25,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_UpgradeWeapons_02",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Weapons Upgraded",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 50,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_UpgradeWeapons_03",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Weapons Upgraded",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 250,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_UpgradeWeapons_04",
+                  "sub_challenge": null,
+                  "reward": null
+              }
+          ]
+      },
+      {
+          "name": "Scrounging for Grub",
+          "tags": [
+              "ChallengeBundle.Metadata.PunchCard.Harvesting"
+          ],
+          "color": "00fff8",
+          "challenges": [
+              {
+                  "title": "Foraged Items consumed",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 5,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_UseForaged_01",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Foraged Items consumed",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 25,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_UseForaged_02",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Foraged Items consumed",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 100,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_UseForaged_03",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Foraged Items consumed",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 500,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_UseForaged_04",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Foraged Items consumed",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 1000,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_UseForaged_05",
+                  "sub_challenge": null,
+                  "reward": null
+              }
+          ]
+      },
+      {
+          "name": "Consistent",
+          "tags": [
+              "ChallengeBundle.Metadata.PunchCard.Meta"
+          ],
+          "color": "00fff8",
+          "challenges": [
+              {
+                  "title": "Weekly Challenges completed",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 5,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_WeeklyChallenges_01",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Weekly Challenges completed",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 10,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_WeeklyChallenges_02",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Weekly Challenges completed",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 20,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_WeeklyChallenges_03",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Weekly Challenges completed",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 40,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_WeeklyChallenges_04",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Weekly Challenges completed",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 60,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_WeeklyChallenges_05",
+                  "sub_challenge": null,
+                  "reward": null
+              }
+          ]
+      },
+      {
+          "name": "Shared Glory",
+          "tags": [
+              "ChallengeBundle.Metadata.PunchCard.Placement"
+          ],
+          "color": "00fff8",
+          "challenges": [
+              {
+                  "title": "Won a match with a friend",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 1,
+                  "party_assist": false,
+                  "quest_id": "Quest_PunchCard_WinWithFriend_01",
+                  "sub_challenge": null,
+                  "reward": null
+              }
+          ]
+      },
+      {
+          "name": "Champion",
+          "tags": [
+              "ChallengeBundle.Metadata.PunchCard.Placement",
+              "ChallengeBundle.MetaData.PunchCard.NonSequential"
+          ],
+          "color": "00fff8",
+          "challenges": [
+              {
+                  "title": "Matches won in different modes",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 1,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_WinDifferentModes_Solo",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Matches won in different modes",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 1,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_WinDifferentModes_Duo",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Matches won in different modes",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 1,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_WinDifferentModes_Squad",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Matches won in different modes",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 1,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_WinDifferentModes_Rumble",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Matches won in different modes",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 1,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_WinDifferentModes_LTM",
+                  "sub_challenge": null,
+                  "reward": null
+              }
+          ]
+      },
+      {
+          "name": "That's Handy",
+          "tags": [
+              "ChallengeBundle.Metadata.PunchCard.Misc"
+          ],
+          "color": "00fff8",
+          "challenges": [
+              {
+                  "title": "Launched off a Sentinel Hand",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 1,
+                  "party_assist": false,
+                  "quest_id": "Quest_PunchCard_WarmWestLaunch_01",
+                  "sub_challenge": null,
+                  "reward": null
+              }
+          ]
+      },
+      {
+          "name": "Well-behaved",
+          "tags": [
+              "ChallengeBundle.Metadata.PunchCard.Misc"
+          ],
+          "color": "00fff8",
+          "challenges": [
+              {
+                  "title": "Thanked the Bus Driver",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 3,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_ThankDriver_01",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Thanked the Bus Driver",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 10,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_ThankDriver_02",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Thanked the Bus Driver",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 50,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_ThankDriver_03",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Thanked the Bus Driver",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 100,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_ThankDriver_04",
+                  "sub_challenge": null,
+                  "reward": null
+              }
+          ]
+      },
+      {
+          "name": "Rainbow Arsenal",
+          "tags": [
+              "ChallengeBundle.Metadata.PunchCard.UpgradeMachine",
+              "ChallengeBundle.MetaData.PunchCard.NonSequential"
+          ],
+          "color": "00fff8",
+          "challenges": [
+              {
+                  "title": "Upgrade weapons to different rarities",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 1,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_UpgradeWeapons_DifferentRarities_Uncommon",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Upgrade weapons to different rarities",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 1,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_UpgradeWeapons_DifferentRarities_Rare",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Upgrade weapons to different rarities",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 1,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_UpgradeWeapons_DifferentRarities_Epic",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Upgrade weapons to different rarities",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 1,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_UpgradeWeapons_DifferentRarities_Legendary",
+                  "sub_challenge": null,
+                  "reward": null
+              }
+          ]
+      },
+      {
+          "name": "Free Fallin'",
+          "tags": [
+              "ChallengeBundle.Metadata.PunchCard.Looting"
+          ],
+          "color": "ffcb7f",
+          "challenges": [
+              {
+                  "title": "Shot down a Supply Drop",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 1,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_ShootDownSupplyDrop_01",
+                  "sub_challenge": null,
+                  "reward": null
+              }
+          ]
+      },
+      {
+          "name": "Hero",
+          "tags": [
+              "ChallengeBundle.Metadata.PunchCard.Meta"
+          ],
+          "color": "00fff8",
+          "challenges": [
+              {
+                  "title": "Reached Season Level 100",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 100,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_SeasonLevel_01",
+                  "sub_challenge": null,
+                  "reward": null
+              }
+          ]
+      },
+      {
+          "name": "Prized Loot",
+          "tags": [
+              "ChallengeBundle.Metadata.PunchCard.Looting"
+          ],
+          "color": "00fff8",
+          "challenges": [
+              {
+                  "title": "Rare Chests Searched",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 1,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Search_RareChests_01",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Rare Chests Searched",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 5,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Search_RareChests_02",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Rare Chests Searched",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 10,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Search_RareChests_03",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Rare Chests Searched",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 25,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Search_RareChests_04",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Rare Chests Searched",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 50,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Search_RareChests_05",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Rare Chests Searched",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 100,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Search_RareChests_06",
+                  "sub_challenge": null,
+                  "reward": null
+              }
+          ]
+      },
+      {
+          "name": "Foil Challenge",
+          "tags": [
+              "ChallengeCategory.Event"
+          ],
+          "color": "00da08",
+          "challenges": [
+              {
+                  "title": "Reach level 165",
+                  "stars": 0,
+                  "xp": 0,
+                  "progress_total": 165,
+                  "party_assist": false,
+                  "quest_id": "quest_superlevel_G_Date",
+                  "sub_challenge": null,
+                  "reward": null
+              }
+          ]
+      },
+      {
+          "name": "Jackpot",
+          "tags": [
+              "ChallengeBundle.Metadata.PunchCard.Looting"
+          ],
+          "color": "00fff8",
+          "challenges": [
+              {
+                  "title": "Supply Llamas Searched",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 1,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Search_Llamas_01",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Supply Llamas Searched",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 3,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Search_Llamas_02",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Supply Llamas Searched",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 5,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Search_Llamas_03",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Supply Llamas Searched",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 10,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Search_Llamas_04",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Supply Llamas Searched",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 25,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Search_Llamas_05",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Supply Llamas Searched",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 50,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Search_Llamas_06",
+                  "sub_challenge": null,
+                  "reward": null
+              }
+          ]
+      },
+      {
+          "name": "Stocking the Armory",
+          "tags": [
+              "ChallengeBundle.Metadata.PunchCard.Looting"
+          ],
+          "color": "00fff8",
+          "challenges": [
+              {
+                  "title": "Ammo Boxes Searched",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 10,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Search_AmmoBoxes_01",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Ammo Boxes Searched",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 50,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Search_AmmoBoxes_02",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Ammo Boxes Searched",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 500,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Search_AmmoBoxes_03",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Ammo Boxes Searched",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 1000,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Search_AmmoBoxes_04",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Ammo Boxes Searched",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 2500,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Search_AmmoBoxes_05",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Ammo Boxes Searched",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 5000,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Search_AmmoBoxes_06",
+                  "sub_challenge": null,
+                  "reward": null
+              }
+          ]
+      },
+      {
+          "name": "Rideshare",
+          "tags": [
+              "ChallengeBundle.MetaData.PunchCard.Valet"
+          ],
+          "color": "00fff8",
+          "challenges": [
+              {
+                  "title": "Eliminated a driver while being a passenger in the same vehicle",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 1,
+                  "party_assist": false,
+                  "quest_id": "Quest_PunchCard_Rideshare_01",
+                  "sub_challenge": null,
+                  "reward": null
+              }
+          ]
+      },
+      {
+          "name": "Back in the Fight",
+          "tags": [
+              "ChallengeBundle.Metadata.PunchCard.Teamwork"
+          ],
+          "color": "ffcb7f",
+          "challenges": [
+              {
+                  "title": "Teammates rebooted",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 1,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_RebootTeammates_01",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Teammates rebooted",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 5,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_RebootTeammates_02",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Teammates rebooted",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 10,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_RebootTeammates_03",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Teammates rebooted",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 25,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_RebootTeammates_04",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Teammates rebooted",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 50,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_RebootTeammates_05",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Teammates rebooted",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 100,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_RebootTeammates_06",
+                  "sub_challenge": null,
+                  "reward": null
+              }
+          ]
+      },
+      {
+          "name": "Efficient",
+          "tags": [
+              "ChallengeBundle.Metadata.PunchCard.Meta"
+          ],
+          "color": "00fff8",
+          "challenges": [
+              {
+                  "title": "Quick Challenges completed",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 5,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_MiniChallenges_01",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Quick Challenges completed",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 10,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_MiniChallenges_02",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Quick Challenges completed",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 25,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_MiniChallenges_03",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Quick Challenges completed",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 100,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_MiniChallenges_04",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Quick Challenges completed",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 250,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_MiniChallenges_05",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Quick Challenges completed",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 500,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_MiniChallenges_06",
+                  "sub_challenge": null,
+                  "reward": null
+              }
+          ]
+      },
+      {
+          "name": "Overachiever",
+          "tags": [
+              "ChallengeBundle.Metadata.PunchCard.Meta"
+          ],
+          "color": "00fff8",
+          "challenges": [
+              {
+                  "title": "Punch Cards completed",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 3,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_PunchCardCompletions_01",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Punch Cards completed",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 5,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_PunchCardCompletions_02",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Punch Cards completed",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 10,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_PunchCardCompletions_03",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Punch Cards completed",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 20,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_PunchCardCompletions_04",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Punch Cards completed",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 40,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_PunchCardCompletions_05",
+                  "sub_challenge": null,
+                  "reward": null
+              }
+          ]
+      },
+      {
+          "name": "Faster Than Light",
+          "tags": [
+              "ChallengeBundle.MetaData.PunchCard.Powers"
+          ],
+          "color": "ffcb7f",
+          "challenges": [
+              {
+                  "title": "Meters traveled on Silver Surfer's Board",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 250,
+                  "party_assist": false,
+                  "quest_id": "Quest_PunchCard_HightowerSoyDistance_01",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Meters traveled on Silver Surfer's Board",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 2500,
+                  "party_assist": false,
+                  "quest_id": "Quest_PunchCard_HightowerSoyDistance_02",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Meters traveled on Silver Surfer's Board",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 10000,
+                  "party_assist": false,
+                  "quest_id": "Quest_PunchCard_HightowerSoyDistance_03",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Meters traveled on Silver Surfer's Board",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 25000,
+                  "party_assist": false,
+                  "quest_id": "Quest_PunchCard_HightowerSoyDistance_04",
+                  "sub_challenge": null,
+                  "reward": null
+              }
+          ]
+      },
+      {
+          "name": "Collector",
+          "tags": [
+              "ChallengeBundle.Metadata.PunchCard.Harvesting"
+          ],
+          "color": "00fff8",
+          "challenges": [
+              {
+                  "title": "Building Materials harvested",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 1000,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Harvest_01",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Building Materials harvested",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 10000,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Harvest_02",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Building Materials harvested",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 25000,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Harvest_03",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Building Materials harvested",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 100000,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Harvest_04",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Building Materials harvested",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 250000,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Harvest_05",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "Building Materials harvested",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 500000,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Harvest_06",
+                  "sub_challenge": null,
+                  "reward": null
+              }
+          ]
+      },
+      {
+          "name": "Precision and Power",
+          "tags": [
+              "ChallengeBundle.Metadata.PunchCard.Misc"
+          ],
+          "color": "ffcb7f",
+          "challenges": [
+              {
+                  "title": "Eliminated a player with a Stark Industries Energy Rifle",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 1,
+                  "party_assist": false,
+                  "quest_id": "Quest_PunchCard_Elim_TomatoAssault_01",
+                  "sub_challenge": null,
+                  "reward": null
+              }
+          ]
+      },
+      {
+          "name": "BRRRRRT!",
+          "tags": [
+              "ChallengeBundle.Metadata.PunchCard.Combat.Gear"
+          ],
+          "color": "ffcb7f",
+          "challenges": [
+              {
+                  "title": "SMG eliminations",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 3,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Elim_SMG_01",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "SMG eliminations",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 10,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Elim_SMG_02",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "SMG eliminations",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 25,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Elim_SMG_03",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "SMG eliminations",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 100,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Elim_SMG_04",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "SMG eliminations",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 250,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Elim_SMG_05",
+                  "sub_challenge": null,
+                  "reward": null
+              },
+              {
+                  "title": "SMG eliminations",
+                  "stars": 0,
+                  "xp": 15000,
+                  "progress_total": 750,
+                  "party_assist": false,
+                  "quest_id": "Quest_S13_PunchCard_Elim_SMG_06",
+                  "sub_challenge": null,
+                  "reward": null
+              }
+          ]
+      }
+  ]
+}

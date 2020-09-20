@@ -6,19 +6,19 @@ module FortniteExperience
       class DailyRequestLimitExceededError < StandardError; end
       class APIKeyNotValidError < StandardError; end
 
-      BASE_URL = -'https://fortniteapi.io'
+      BASE_URI              = -'https://fortniteapi.io'
+      POI_URI               = -"#{BASE_URI}/game/poi?lang=en"
+      WEEKLY_CHALLENGES_URI = -"#{BASE_URI}/v1/challenges?season=current&lang=en"
 
       class << self
         def get_poi_names(api_key)
-          uri = "#{BASE_URL}/game/poi?lang=en"
-          response = HTTParty.get(uri, headers: { 'Authorization' => api_key })
+          response = HTTParty.get(POI_URI, headers: { 'Authorization' => api_key })
           verify(response)
           response.parsed_response['list'].map { |poi| poi['name'] }
         end
 
         def get_weekly_challenges(api_key)
-          uri = "#{BASE_URL}/v1/challenges?season=current&lang=en"
-          response = HTTParty.get(uri, headers: { 'Authorization' => api_key })
+          response = HTTParty.get(WEEKLY_CHALLENGES_URI, headers: { 'Authorization' => api_key })
           verify(response)
           response.parsed_response['weeks'].values.map { |week| week['challenges'] }.flatten
         end
@@ -27,7 +27,7 @@ module FortniteExperience
 
         def verify(response)
           raise APIKeyNotValidError if response['code'] == 'INVALID_API_KEY'
-          # TODO: verify resonse code for DailyRequestLimitExceededError
+          # TODO: verify response code for DailyRequestLimitExceededError
           raise DailyRequestLimitExceededError if response['code'] == 'TBD'
         end
       end

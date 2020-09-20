@@ -1,0 +1,298 @@
+---
+- title: Search Chests at Dirty Docks
+  stars: 0
+  xp: 25000
+  progress_total: 7
+  party_assist: false
+  quest_id: quest_s14_w1_q01
+  sub_challenge:
+  reward:
+  prestige: false
+- title: Eliminations at Holly Hedges
+  stars: 0
+  xp: 25000
+  progress_total: 3
+  party_assist: false
+  quest_id: quest_s14_w1_q02
+  sub_challenge:
+  reward:
+  prestige: false
+- title: Collect Floating Rings at Misty Meadows
+  stars: 0
+  xp: 25000
+  progress_total: 1
+  party_assist: false
+  quest_id: quest_s14_w1_q03
+  sub_challenge:
+  reward:
+  prestige: false
+- title: Eliminate Stark Robots at Quinjet Patrol landing sites
+  stars: 0
+  xp: 25000
+  progress_total: 5
+  party_assist: false
+  quest_id: quest_s14_w1_q04
+  sub_challenge:
+  reward:
+  prestige: false
+- title: Gas up a vehicle at Lazy Lake
+  stars: 0
+  xp: 25000
+  progress_total: 1
+  party_assist: false
+  quest_id: quest_s14_w1_q05
+  sub_challenge:
+  reward:
+  prestige: false
+- title: Deal damage to opponents with Stark Industries Energy Rifles
+  stars: 0
+  xp: 25000
+  progress_total: 1000
+  party_assist: false
+  quest_id: quest_s14_w1_q06
+  sub_challenge:
+  reward:
+  prestige: false
+- title: Eliminate Doctor Doom at Doom's Domain
+  stars: 0
+  xp: 50000
+  progress_total: 3
+  party_assist: true
+  quest_id: quest_s14_w1_q07
+  sub_challenge:
+  reward:
+  prestige: false
+- title: Deal damage to opponents at Craggy Cliffs
+  stars: 0
+  xp: 25000
+  progress_total: 500
+  party_assist: false
+  quest_id: quest_s14_w1_q08
+  sub_challenge:
+  reward:
+  prestige: false
+- title: Search Chests at Salty Springs
+  stars: 0
+  xp: 25000
+  progress_total: 7
+  party_assist: false
+  quest_id: quest_s14_w2_q01
+  sub_challenge:
+  reward:
+  prestige: false
+- title: Eliminations at The Authority
+  stars: 0
+  xp: 25000
+  progress_total: 3
+  party_assist: false
+  quest_id: quest_s14_w2_q02
+  sub_challenge:
+  reward:
+  prestige: false
+- title: Dance on top of different Sentinel heads at the Sentinel Graveyard
+  stars: 0
+  xp: 25000
+  progress_total: 3
+  party_assist: false
+  quest_id: quest_s14_w2_q03
+  sub_challenge:
+  reward:
+  prestige: false
+- title: Destroy boats at Craggy Cliffs
+  stars: 0
+  xp: 25000
+  progress_total: 7
+  party_assist: false
+  quest_id: quest_s14_w2_q04
+  sub_challenge:
+  reward:
+  prestige: false
+- title: Bounce on different dog toys at the Ant Manor
+  stars: 0
+  xp: 25000
+  progress_total: 4
+  party_assist: false
+  quest_id: quest_s14_w2_q05
+  sub_challenge:
+  reward:
+  prestige: false
+- title: Ride a Motorboat under different colored steel bridges
+  stars: 0
+  xp: 25000
+  progress_total: 3
+  party_assist: false
+  quest_id: quest_s14_w2_q06
+  sub_challenge:
+  reward:
+  prestige: false
+- title: Search S.H.I.E.L.D. Chests inside Quinjets
+  stars: 0
+  xp: 50000
+  progress_total: 7
+  party_assist: true
+  quest_id: quest_s14_w2_q07
+  sub_challenge:
+  reward:
+  prestige: false
+- title: Deal damage to opponents at Catty Corner
+  stars: 0
+  xp: 25000
+  progress_total: 500
+  party_assist: false
+  quest_id: quest_s14_w2_q08
+  sub_challenge:
+  reward:
+  prestige: false
+- title: Search Chests at Steamy Stacks
+  stars: 0
+  xp: 25000
+  progress_total: 7
+  party_assist: false
+  quest_id: quest_s14_w3_q01
+  sub_challenge:
+  reward:
+  prestige: false
+- title: Eliminations at Retail Row
+  stars: 0
+  xp: 25000
+  progress_total: 3
+  party_assist: false
+  quest_id: quest_s14_w3_q02
+  sub_challenge:
+  reward:
+  prestige: false
+- title: Collect Wood from Weeping Woods
+  stars: 0
+  xp: 25000
+  progress_total: 500
+  party_assist: false
+  quest_id: quest_s14_w3_q03
+  sub_challenge:
+  reward:
+  prestige: false
+- title: Visit Panther's Prowl
+  stars: 0
+  xp: 25000
+  progress_total: 1
+  party_assist: false
+  quest_id: quest_s14_w3_q04
+  sub_challenge:
+  reward:
+  prestige: false
+- title: Deal damage with exploding Gas Pumps or Gas Cans
+  stars: 0
+  xp: 25000
+  progress_total: 250
+  party_assist: false
+  quest_id: quest_s14_w3_q05
+  sub_challenge:
+  reward:
+  prestige: false
+- title: Place Fire Traps
+  stars: 0
+  xp: 25000
+  progress_total: 3
+  party_assist: false
+  quest_id: quest_s14_w3_q06
+  sub_challenge:
+  reward:
+  prestige: false
+- title: Eliminate Iron Man at Stark Industries
+  stars: 0
+  xp: 50000
+  progress_total: 3
+  party_assist: true
+  quest_id: quest_s14_w3_q07
+  sub_challenge:
+  reward:
+  prestige: false
+- title: Deal damage to opponents at Misty Meadows
+  stars: 0
+  xp: 25000
+  progress_total: 500
+  party_assist: false
+  quest_id: quest_s14_w3_q08
+  sub_challenge:
+  reward:
+  prestige: false
+- title: Search Chests at Slurpy Swamp
+  stars: 0
+  xp: 25000
+  progress_total: 7
+  party_assist: false
+  quest_id: quest_s14_w4_q01
+  sub_challenge:
+  reward:
+  prestige: false
+- title: Eliminations at Weeping Woods
+  stars: 0
+  xp: 25000
+  progress_total: 3
+  party_assist: false
+  quest_id: quest_s14_w4_q02
+  sub_challenge:
+  reward:
+  prestige: false
+- title: Deal damage within 10 seconds of bouncing off an umbrella at Sweaty Sands
+  stars: 0
+  xp: 25000
+  progress_total: 100
+  party_assist: false
+  quest_id: quest_s14_w4_q03
+  sub_challenge:
+  reward:
+  prestige: false
+- title: Destroy Collector Cases at The Collection
+  stars: 0
+  xp: 25000
+  progress_total: 3
+  party_assist: false
+  quest_id: quest_s14_w4_q04
+  sub_challenge:
+  reward:
+  prestige: false
+- title: Hack Stark Robots at Stark Industries
+  stars: 0
+  xp: 25000
+  progress_total: 5
+  party_assist: false
+  quest_id: quest_s14_w4_q05
+  sub_challenge:
+  reward:
+  prestige: false
+- title: Destroy Gatherers
+  stars: 0
+  xp: 25000
+  progress_total: 20
+  party_assist: false
+  quest_id: quest_s14_w4_q06
+  sub_challenge:
+  reward:
+  prestige: false
+- title: Deal damage with a Gatherer's remains
+  stars: 0
+  xp: 50000
+  progress_total: 10000
+  party_assist: true
+  quest_id: quest_s14_w4_q07
+  sub_challenge:
+  reward:
+  prestige: false
+- title: Deal damage to opponents at Steamy Stacks
+  stars: 0
+  xp: 25000
+  progress_total: 500
+  party_assist: false
+  quest_id: quest_s14_w4_q08
+  sub_challenge:
+  reward:
+  prestige: false
+- title: Deal damage to opponents at The Authority
+  stars: 0
+  xp: 25000
+  progress_total: 500
+  party_assist: false
+  quest_id: quest_s14_w5_q08
+  sub_challenge:
+  reward:
+  prestige: false

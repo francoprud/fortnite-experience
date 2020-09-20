@@ -7,8 +7,17 @@ PATH
 GEM
   remote: https://rubygems.org/
   specs:
+    addressable (2.7.0)
+      public_suffix (>= 2.0.2, < 5.0)
     ast (2.4.1)
+    byebug (2.7.0)
+      columnize (~> 0.3)
+      debugger-linecache (~> 1.2)
+    columnize (0.9.0)
+    crack (0.4.4)
+    debugger-linecache (1.2.0)
     diff-lcs (1.4.4)
+    hashdiff (1.0.1)
     httparty (0.13.7)
       json (~> 1.8)
       multi_xml (>= 0.5.2)
@@ -17,6 +26,7 @@ GEM
     parser (2.7.1.4)
       ast (~> 2.4.1)
     powerpack (0.1.2)
+    public_suffix (4.0.6)
     rainbow (2.2.2)
       rake
     rake (11.3.0)
@@ -41,15 +51,21 @@ GEM
       unicode-display_width (~> 1.0, >= 1.0.1)
     ruby-progressbar (1.10.1)
     unicode-display_width (1.7.0)
+    webmock (2.3.2)
+      addressable (>= 2.3.6)
+      crack (>= 0.3.2)
+      hashdiff
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
+  byebug (~> 2.1)
   fortnite_experience!
   rake (~> 11.2, >= 11.2.2)
   rspec (~> 3.5)
   rubocop (~> 0.42.0)
+  webmock (~> 2.1)
 
 BUNDLED WITH
    2.1.4
