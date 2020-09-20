@@ -1,5 +1,7 @@
 # FortniteExperience
 
+[![Gem Version](https://badge.fury.io/rb/fortnite_experience.svg)](https://badge.fury.io/rb/fortnite_experience)
+
 This gem provides a class to group the total experience of the current Fortnite season weekly challenges by Point Of Interest (POI). It uses [FortniteApi.io](https://fortniteapi.io/) API to retrieve the information about POIs and weekly challenges.
 
 ## Installation
