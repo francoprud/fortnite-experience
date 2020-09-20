@@ -61,7 +61,8 @@ RSpec.describe FortniteExperience::Services::FortniteAPI do
             .to_return(
               status: 200,
               body: File.read(
-                'spec/support/responses/fortniteapi.io/weekly_challenges/valid.json'),
+                'spec/support/responses/fortniteapi.io/weekly_challenges/valid.json'
+              ),
               headers: { 'Authorization' => api_key, 'Content-Type' => 'application/json' }
             )
 
@@ -88,7 +89,8 @@ RSpec.describe FortniteExperience::Services::FortniteAPI do
           .to_return(
             status: 200,
             body: File.read(
-              'spec/support/responses/fortniteapi.io/weekly_challenges/invalid_api_key.json'),
+              'spec/support/responses/fortniteapi.io/weekly_challenges/invalid_api_key.json'
+            ),
             headers: { 'Authorization' => api_key, 'Content-Type' => 'application/json' }
           )
 

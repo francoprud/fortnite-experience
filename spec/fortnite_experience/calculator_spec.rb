@@ -19,7 +19,8 @@ RSpec.describe FortniteExperience::Calculator do
             .to_return(
               status: 200,
               body: File.read(
-                'spec/support/responses/fortniteapi.io/weekly_challenges/valid.json'),
+                'spec/support/responses/fortniteapi.io/weekly_challenges/valid.json'
+              ),
               headers: { 'Authorization' => api_key, 'Content-Type' => 'application/json' }
             )
 
